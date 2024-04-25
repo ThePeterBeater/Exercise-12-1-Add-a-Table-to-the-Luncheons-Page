@@ -89,7 +89,9 @@ main {
 	clear: left;
 }
 
-
+#Luncheon_Title {
+	color: #800000;
+}
 
 
 
@@ -131,7 +133,7 @@ table {
  } 
 	
 .border-bottom {
-	border-bottom: 2px red solid;
+	border-bottom: 2px #800000;
 } 
 
 
